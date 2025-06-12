@@ -1,0 +1,11 @@
+.col {
+    border: 1px solid blue;
+}
+
+.col-4 {
+    border: 1px solid green;
+}
+
+.col-8 {
+    border: 1px solid green;
+}
