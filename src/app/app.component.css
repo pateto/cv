@@ -17,9 +17,18 @@
 }
 
 .name {
-    font-size: 1.5em;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.profession {
+    font-size: 1.3em;
 }
 
 .container {
     font-size: 0.8em;
+}
+
+.personal {
+    background-color: #edf3f8;
 }
